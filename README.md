@@ -1,5 +1,5 @@
-##🧠 Asistente Virtual con Patrones de Diseño – Java + Swing
-📌 Descripción General##
+#🧠 Asistente Virtual con Patrones de Diseño – Java + Swing
+📌 Descripción General#
 
 --
 
